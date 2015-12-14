@@ -1,2 +1,4 @@
 gen
 bin
+test/gen
+test/bin
